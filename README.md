@@ -1,6 +1,6 @@
 # SecurePass – Smart Password Strength Checker
 YouTube link: [https://youtu.be/raqvOrapmQc](https://youtu.be/raqvOrapmQc)
-
+Github link: [https://github.com/weekndbaba/securepass-password-checker](https://github.com/weekndbaba/securepass-password-checker)
 SecurePass is a password strength checker web application built using the Flask web framework, designed to help users assess the strength of their passwords in real-time. This project is intended to help users understand the strength of their passwords and ensure they use strong and secure passwords when creating accounts or managing their digital life. The app evaluates password strength based on length, complexity (uppercase, lowercase, numbers, special characters), and provides visual feedback on its strength through a dynamic progress bar. Additionally, users can track their past password checks through a history dashboard, which helps them monitor their password choices over time.
 
 This application has been developed as part of my CS50 Final Project, demonstrating my proficiency in Python, web development, and database integration.
